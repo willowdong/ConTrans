@@ -1,7 +1,3 @@
-# ConTrans
-This repository provides the code for the paper [CONTRANS: Weak-to-Strong Alignment Engineering
-via Concept Transplantation](https://arxiv.org/abs/2405.13578).
-
 # Results
 ![pic](assets/emotion.png "Emotion Concept Acc.")
 ![pic](assets/generation.png "Generation Output")
